@@ -1,6 +1,6 @@
 # Problem Description
 
-## Write unit and instrumentation tests.
+## Regex Form Validation
 
 ### Implementation 1:
 
@@ -9,6 +9,7 @@ Build a registration form that takes the name, phone number, email and sex as dr
 Write validation code to check for Nigerian phone numbers starting with 0 or 234 and to make sure every value is entered correctly.
 
 ### Implementation 2:
+Use Regex
 
 Write a unit test for the validation function above
 
@@ -19,3 +20,5 @@ Write a UI test for your application.
 1\.  Proper unit testing
 
 2\.  Proper UI test with good coverage.
+
+3\. Use Regex to validate Email input
